@@ -1,0 +1,201 @@
+Age;ZipCode;Disease
+10~13;35000;Urticaire
+10~13;35000;Dengue
+10~13;35000;Otite
+10~13;35000;Appendicite
+19~31;35000;Zona
+19~31;35000;Scarlatine
+19~31;35000;Rhino-pharyngite
+19~31;35000;Chlamydia
+43~57;35000;Appendicite
+43~57;35000;Eczéma
+43~57;35000;Chlamydia
+43~57;35000;Hépatite B
+43~57;35000;Rougeole
+43~57;35000;Angine
+60~74;35000;Angine
+60~74;35000;Angine
+60~74;35000;Zona
+60~74;35000;Appendicite
+60~74;35000;Rhino-pharyngite
+14~22;35200;Appendicite
+14~22;35200;Urticaire
+14~22;35200;Zona
+14~22;35200;Varicelle
+24~35;35200;Scarlatine
+24~35;35200;Grippe
+24~35;35200;Varicelle
+47~55;35200;Varicelle
+47~55;35200;Hépatite C
+47~55;35200;Rhino-pharyngite
+47~55;35200;Scarlatine
+47~55;35200;Eczéma
+47~55;35200;Hépatite C
+63~76;35200;Rhino-pharyngite
+63~76;35200;Chlamydia
+63~76;35200;Chlamydia
+63~76;35200;Appendicite
+63~76;35200;Hépatite C
+11~30;37000;Dengue
+11~30;37000;Hépatite C
+11~30;37000;Rhino-pharyngite
+11~30;37000;Cataracte
+11~30;37000;Appendicite
+49~56;37000;Grippe
+49~56;37000;Otite
+49~56;37000;Cataracte
+49~56;37000;Eczéma
+49~56;37000;Zona
+62~74;37000;Varicelle
+62~74;37000;Dengue
+62~74;37000;Cataracte
+62~74;37000;Chlamydia
+7~36;40000;Hépatite B
+7~36;40000;Grippe
+7~36;40000;Zona
+7~36;40000;Rhino-pharyngite
+7~36;40000;Urticaire
+40~55;40000;Eczéma
+40~55;40000;Rhino-pharyngite
+40~55;40000;Hépatite C
+40~55;40000;Chlamydia
+40~55;40000;Angine
+40~55;40000;Rougeole
+40~55;40000;Varicelle
+12~33;40500;Urticaire
+12~33;40500;Rougeole
+12~33;40500;Zona
+12~33;40500;Zona
+12~33;40500;Dengue
+44~76;40500;Cataracte
+44~76;40500;Varicelle
+44~76;40500;Otite
+44~76;40500;Urticaire
+44~76;40500;Hépatite B
+44~76;40500;Rhino-pharyngite
+13~40;50000;Hépatite B
+13~40;50000;Rhino-pharyngite
+13~40;50000;Hépatite B
+13~40;50000;Otite
+13~40;50000;Urticaire
+13~40;50000;Scarlatine
+47~57;50000;Hépatite B
+47~57;50000;Scarlatine
+47~57;50000;Urticaire
+47~57;50000;Rhino-pharyngite
+63~75;50000;Appendicite
+63~75;50000;Urticaire
+63~75;50000;Scarlatine
+63~75;50000;Dengue
+10~15;52000;Hépatite C
+10~15;52000;Zona
+10~15;52000;Dengue
+28~37;52000;Grippe
+28~37;52000;Urticaire
+28~37;52000;Grippe
+28~37;52000;Appendicite
+47~76;52000;Rhino-pharyngite
+47~76;52000;Rougeole
+47~76;52000;Rougeole
+47~76;52000;Angine
+47~76;52000;Chlamydia
+8~20;60000;Urticaire
+8~20;60000;Varicelle
+8~20;60000;Chlamydia
+8~20;60000;Angine
+24~35;60000;Hépatite C
+24~35;60000;Zona
+24~35;60000;Eczéma
+43~72;60000;Otite
+43~72;60000;Angine
+43~72;60000;Appendicite
+43~72;60000;Dengue
+43~72;60000;Cataracte
+7~31;62000;Rougeole
+7~31;62000;Rougeole
+7~31;62000;Otite
+7~31;62000;Rhino-pharyngite
+42~76;62000;Hépatite B
+42~76;62000;Rhino-pharyngite
+42~76;62000;Varicelle
+42~76;62000;Varicelle
+42~76;62000;Grippe
+42~76;62000;Angine
+9~17;68000;Rougeole
+9~17;68000;Varicelle
+9~17;68000;Zona
+9~17;68000;Rougeole
+9~17;68000;Rougeole
+27~38;68000;Rhino-pharyngite
+27~38;68000;Eczéma
+27~38;68000;Dengue
+27~38;68000;Hépatite C
+27~38;68000;Dengue
+27~38;68000;Otite
+41~75;68000;Dengue
+41~75;68000;Hépatite B
+41~75;68000;Cataracte
+41~75;68000;Grippe
+41~75;68000;Rhino-pharyngite
+41~75;68000;Grippe
+41~75;68000;Grippe
+41~75;68000;Dengue
+14~30;75000;Scarlatine
+14~30;75000;Zona
+14~30;75000;Eczéma
+14~30;75000;Cataracte
+14~30;75000;Urticaire
+42~73;75000;Dengue
+42~73;75000;Eczéma
+42~73;75000;Rougeole
+42~73;75000;Cataracte
+42~73;75000;Hépatite B
+18~23;75001;Dengue
+18~23;75001;Cataracte
+18~23;75001;Rhino-pharyngite
+18~23;75001;Chlamydia
+29~41;75001;Varicelle
+29~41;75001;Appendicite
+29~41;75001;Cataracte
+51~67;75001;Dengue
+51~67;75001;Rhino-pharyngite
+51~67;75001;Appendicite
+51~67;75001;Angine
+51~67;75001;Varicelle
+8~12;75002;Chlamydia
+8~12;75002;Urticaire
+8~12;75002;Grippe
+8~12;75002;Eczéma
+8~12;75002;Appendicite
+8~12;75002;Rougeole
+16~30;75002;Zona
+16~30;75002;Scarlatine
+16~30;75002;Rhino-pharyngite
+16~30;75002;Zona
+16~30;75002;Angine
+38~57;75002;Grippe
+38~57;75002;Dengue
+38~57;75002;Otite
+38~57;75002;Eczéma
+38~57;75002;Grippe
+66~76;75002;Cataracte
+66~76;75002;Zona
+66~76;75002;Urticaire
+66~76;75002;Urticaire
+66~76;75002;Otite
+66~76;75002;Dengue
+10~17;75005;Eczéma
+10~17;75005;Cataracte
+10~17;75005;Appendicite
+31~39;75005;Grippe
+31~39;75005;Chlamydia
+31~39;75005;Hépatite C
+31~39;75005;Urticaire
+31~39;75005;Urticaire
+48~49;75005;Otite
+48~49;75005;Varicelle
+48~49;75005;Rougeole
+57~72;75005;Hépatite C
+57~72;75005;Dengue
+57~72;75005;Rougeole
+57~72;75005;Eczéma

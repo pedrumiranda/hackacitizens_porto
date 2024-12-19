@@ -1,0 +1,375 @@
+﻿Title;Type;Hotspot;Latitude;Longitude;MAC Radius;Zone;Street;Parish
+z205_BasilioTelesDPedroV;Outdoor Access Point;Alameda Basílio Teles - Rua de Dom Pedro V;41,146929;-8,632913;48-8b-0a-7a-9a-60;Massarelos;Alameda de Basílio Teles;Lordelo do Ouro e Massarelos
+z206_BasilioTelesDPedroV;Outdoor Access Point;Alameda Basílio Teles - Rua de Dom Pedro V;41,146929;-8,632913;48-8b-0a-7a-c2-00;Massarelos;Alameda de Basílio Teles;Lordelo do Ouro e Massarelos
+z207_BasilioTelesDPedroV;Outdoor Access Point;Alameda Basílio Teles - Rua de Dom Pedro V;41,146929;-8,632913;48-8b-0a-7a-9f-20;Massarelos;Alameda de Basílio Teles;Lordelo do Ouro e Massarelos
+cantina-rap1;Outdoor Access Point;Aliados - Gabinete do Municipe;41,149482;-8,610083;a0-23-9f-ca-87-c0;Trindade;Praça do General Humberto Delgado;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+correiosCantina-rap1;Outdoor Access Point;Aliados - Gabinete do Municipe;41,149482;-8,610083;70-81-05-51-34-1d;Trindade;Praça do General Humberto Delgado;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+correios-rap1;Outdoor Access Point;Aliados - Gabinete do Municipe;41,149482;-8,610083;a0-23-9f-ca-83-80;Trindade;Praça do General Humberto Delgado;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+evento-rap1;Outdoor Access Point;Aliados - Gabinete do Municipe;41,149482;-8,610083;c4-7d-4f-2e-a6-44;Trindade;Praça do General Humberto Delgado;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+evento-rap2;Outdoor Access Point;Aliados - Gabinete do Municipe;41,149482;-8,610083;00-23-04-b8-1f-42;Trindade;Praça do General Humberto Delgado;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z137_Aliados-S;Outdoor Access Point;Aliados - Rua Elísio de Melo;41,147993;-8,611216;a4-bd-c4-d0-61-00;Santo Ildefonso;Avenida dos Aliados;Cedofeita
+z138_Aliados-N;Outdoor Access Point;Aliados - Rua Elísio de Melo;41,147993;-8,611216;a4-bd-c4-d0-62-60;Santo Ildefonso;Avenida dos Aliados;Cedofeita
+z131_Aliados-N;Outdoor Access Point;Aliados (Fonte dos Aliados);41,14908;-8,6106;a4-bd-c4-d0-60-80;Santo Ildefonso;Avenida dos Aliados;Cedofeita
+z132_Aliados-S;Outdoor Access Point;Aliados (Fonte dos Aliados);41,14908;-8,6106;a4-bd-c4-d0-61-20;Santo Ildefonso;Avenida dos Aliados;Cedofeita
+Polo-B-rap1;Outdoor Access Point;Asprela  - FEUP;41,177855;-8,59509;a0-23-9f-94-a2-c0;Paranhos;Rua Doutor Roberto Frias;Lamas
+APD_Sala_Principal;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;50-5d-ac-8b-ae-a0;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Auditorio_Secundario;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;b4-fb-f9-7b-15-c0;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Copa;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;60-de-f3-96-11-60;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Corredor_APD_piso_1;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;9c-71-3a-e5-af-c0;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Corredor_PIH_piso_1;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;60-de-f3-96-12-60;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Hall_de_Entrada;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;60-de-f3-96-12-c0;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Sala_APD_Piso-0;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;60-de-f3-96-13-20;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+APD-Sala-Open-Office;Indoor Access Point;Associação Porto Digital;41,152633;-8,60828;ac-75-1d-98-af-40;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+EduroamTeste-rap1;Outdoor Access Point;Associação Porto Digital;41,152633;-8,60828;a0-23-9f-b0-32-a0;Santo Ildefonso;Rua do Bonjardim;Cedofeita
+z330_PraiaCarneiro;Outdoor Access Point;Av. D. Carlos I - Esplanada do Castelo;41,14806;-8,674758;48-8b-0a-76-55-8c;Passeio Alegre;Avenida Dom Carlos I;Aldoar, Foz do Douro e Nevogilde
+z331_PraiaCarneiro;Outdoor Access Point;Av. D. Carlos I - Esplanada do Castelo;41,14806;-8,674758;48-8b-0a-7a-9d-c0;Passeio Alegre;Avenida Dom Carlos I;Aldoar, Foz do Douro e Nevogilde
+z332_PraiaCarneiro;Outdoor Access Point;Av. D. Carlos I - Esplanada do Castelo;41,14806;-8,674758;48-8b-0a-76-5a-dc;Passeio Alegre;Avenida Dom Carlos I;Aldoar, Foz do Douro e Nevogilde
+FernaooMagPracaVelasquez;Outdoor Access Point;Av. Fernão Magalhães - Rua do Monte Aventino;41,162626;-8,590759;2c-55-d3-60-22-60;Campanhã;Avenida de Fernão de Magalhães;Monte Aventino
+Avenida25Abril-PracaFlores;Outdoor Access Point;Avenida 25 Abril - Rua Professor Ernesto Morais;41,156207;-8,589859;28-41-c6-b5-2b-c0;Campanhã;Avenida 25 de Abril;Lameira
+z319_AvenidaBrasil-Molhe;Outdoor Access Point;Avenida Brasil - Rua do Molhe;41,159257;-8,683781;48-8b-0a-79-b6-a0;Carreiros;Rua do Molhe;Aldoar, Foz do Douro e Nevogilde
+z320_AvenidaBrasil-Molhe;Outdoor Access Point;Avenida Brasil - Rua do Molhe;41,159257;-8,683781;48-8b-0a-79-d9-40;Carreiros;Rua do Molhe;Aldoar, Foz do Douro e Nevogilde
+z321_AvenidaBrasil-Molhe;Outdoor Access Point;Avenida Brasil - Rua do Molhe;41,159257;-8,683781;48-8b-0a-7a-a0-e0;Carreiros;Rua do Molhe;Aldoar, Foz do Douro e Nevogilde
+z160_A.AfonsoHenriques_O;Outdoor Access Point;Avenida D.Afonso Henriques - Frente a Sé;41,14337;-8,610437;a4-bd-c4-d0-5d-80;Sé;Avenida Dom Afonso Henriques;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z161_A.AfonsoHenriques_S;Outdoor Access Point;Avenida D.Afonso Henriques - Frente a Sé;41,14337;-8,610437;;Sé;Avenida Dom Afonso Henriques;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z313_AvenidaBoavista-AvenidaParque;Outdoor Access Point;Avenida da Boavista - Avenida do Parque;41,165136;-8,671586;48-8b-0a-7a-c4-80;Castelo do Queijo;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z340_AvenidaBoavista-AvenidaParque;Outdoor Access Point;Avenida da Boavista - Avenida do Parque;41,165136;-8,671586;48-8b-0a-7a-cb-80;Castelo do Queijo;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z342_JardimAnteroFigueiredo;Outdoor Access Point;Avenida da Boavista - Avenida do Parque;41,165136;-8,671586;48-8b-0a-7a-cc-80;Castelo do Queijo;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z343_AvenidaBoavista-AvenidaParque;Outdoor Access Point;Avenida da Boavista - Avenida do Parque;41,165136;-8,671586;48-8b-0a-7a-9e-e0;Castelo do Queijo;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z336_AvenidaBoavista-ColegioINED;Outdoor Access Point;Avenida da Boavista - Colégio INED;41,166715;-8,682449;48-8b-0a-7a-9b-60;Nevogilde;Av Boavista;Cedofeita
+z337_AvenidaBoavista-ColegioINED;Outdoor Access Point;Avenida da Boavista - Colégio INED;41,166715;-8,682449;48-8b-0a-7a-bb-80;Nevogilde;Av Boavista;Cedofeita
+z311_AvenidaBoavista-PraçaGoncaloZarco;Outdoor Access Point;Avenida da Boavista - Praça Goncalo Zarco;41,167657;-8,687447;48-8b-0a-76-58-a4;Castelo do Queijo;Ciclovia da Boavista;Aldoar, Foz do Douro e Nevogilde
+z312_AvenidaBoavista-PraçaGoncaloZarco;Outdoor Access Point;Avenida da Boavista - Praça Goncalo Zarco;41,167657;-8,687447;48-8b-0a-7a-99-a0;Castelo do Queijo;Ciclovia da Boavista;Aldoar, Foz do Douro e Nevogilde
+z335_AvenidaBoavista-Malaca;Outdoor Access Point;Avenida da Boavista - Rua de Malaca;41,167156;-8,685089;48-8b-0a-7a-9c-40;Castelo do Queijo;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z338_AvenidaBoavista-Nevogilde;Outdoor Access Point;Avenida da Boavista-  Rua Nevogilde;41,165982;-8,678092;48-8b-0a-7a-c1-60;Passos;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z339_AvenidaBoavista-Nevogilde;Outdoor Access Point;Avenida da Boavista-  Rua Nevogilde;41,165982;-8,678092;48-8b-0a-7a-96-60;Passos;Avenida da Boavista;Aldoar, Foz do Douro e Nevogilde
+z328_AvenidaBrasil-Agra;Outdoor Access Point;Avenida do Brasil-  Rua da Agra;41,154936;-8,680105;48-8b-0a-7a-ba-40;Foz do Douro;Av Brasil;Cedofeita
+z329_AvenidaBrasil-Agra;Outdoor Access Point;Avenida do Brasil-  Rua da Agra;41,154936;-8,680105;48-8b-0a-7a-9f-00;Foz do Douro;Av Brasil;Cedofeita
+z324_AvenidaBrasil-Crasto;Outdoor Access Point;Avenida do Brasil - Rua do Crasto;41,157116;-8,682009;48-8b-0a-7a-a2-00;Carreiros;Avenida do Brasil;Aldoar, Foz do Douro e Nevogilde
+z325_AvenidaBrasil-Crasto;Outdoor Access Point;Avenida do Brasil - Rua do Crasto;41,157116;-8,682009;48-8b-0a-7a-9f-60;Carreiros;Avenida do Brasil;Aldoar, Foz do Douro e Nevogilde
+z326_AvenidaBrasil-Padrao;Outdoor Access Point;Avenida do Brasil - Rua do Padrão;41,155923;-8,68099;;Nevogilde;Av Brasil;Cedofeita
+z327_AvenidaBrasil-Padrao;Outdoor Access Point;Avenida do Brasil - Rua do Padrão;41,155923;-8,68099;;Nevogilde;Av Brasil;Cedofeita
+combatentes-rap1;Outdoor Access Point;Avenida dos Combatentes - Rua de Costa Cabral;41,165537;-8,598744;40-ee-dd-5a-ec-80;Paranhos;Rua de Costa Cabral;Lindo Vale
+z308_AveniaMontevideo-PraçaGoncaloZarco;Outdoor Access Point;Avenida Montevideo - Praça Goncalo Zarco;41,166935;-8,68819;48-8b-0a-7a-9a-a0;Castelo do Queijo;Praça Goncalo Zarco;Aldoar, Foz do Douro e Nevogilde
+z309_AveniaMontevideo-PraçaGoncaloZarco;Outdoor Access Point;Avenida Montevideo - Praça Goncalo Zarco;41,166935;-8,68819;48-8b-0a-7a-ad-60;Castelo do Queijo;Praça Goncalo Zarco;Aldoar, Foz do Douro e Nevogilde
+z310_AveniaMontevideo-PraçaGoncaloZarco;Outdoor Access Point;Avenida Montevideo - Praça Goncalo Zarco;41,166935;-8,68819;48-8b-0a-7a-96-c0;Castelo do Queijo;Praça Goncalo Zarco;Aldoar, Foz do Douro e Nevogilde
+z314_AvenidaMontevideo-PeroCovilha;Outdoor Access Point;Avenida Montevideo - Rua de Pero Covilha;41,164495;-8,686743;48-8b-0a-7a-bb-00;Nevogilde;Av Montevideu;Cedofeita
+z315_AvenidaMontevideo-PeroCovilha;Outdoor Access Point;Avenida Montevideo - Rua de Pero Covilha;41,164495;-8,686743;48-8b-0a-79-e2-20;Nevogilde;Av Montevideu;Cedofeita
+z316_AvenidaMontevideo-PeroCovilha;Outdoor Access Point;Avenida Montevideo - Rua de Pero Covilha;41,164495;-8,686743;48-8b-0a-7a-98-00;Nevogilde;Av Montevideu;Cedofeita
+z317_AvenidaMontevideo-Funchal;Outdoor Access Point;Avenida Montevideo - Rua do Funchal;41,162836;-8,685649;48-8b-0a-76-55-64;Carreiros;Rua do Funchal . Avenida de Montevideu;Aldoar, Foz do Douro e Nevogilde
+z318_AvenidaMontevideo-Funchal;Outdoor Access Point;Avenida Montevideo - Rua do Funchal;41,162836;-8,685649;48-8b-0a-76-58-44;Carreiros;Rua do Funchal . Avenida de Montevideu;Aldoar, Foz do Douro e Nevogilde
+vit-map1;Outdoor Access Point;Biblioteca de Serralves;41,15926515;-8,6591409;00-26-0b-4d-3f-fa;Serralves;Rua de Dom João de Castro;Lordelo do Ouro e Massarelos
+bppi-rap1;Outdoor Access Point;Biblioteca Popular Pedro Ivo;41,161474;-8,604499;a0-23-9f-f3-18-40;Marquês;Praça do Marquês de Pombal;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap10;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;70-df-2f-14-02-60;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap11;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-b0-7b-70;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap12;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;40-01-7a-a4-a0-a0;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap13;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-b0-35-90;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap14;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-b0-46-20;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap15;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-3d-84-f0;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap27;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-b4-63-90;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap28;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;a0-23-9f-b0-52-40;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bpmp-rap6;Outdoor Access Point;Biblioteca Pública Municpal do Porto;41,146042;-8,601802;50-0f-80-ce-55-10;São Lázaro;Rua de Dom João IV;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+BMAG - Galeria;Outdoor Access Point;BMAG;41,14851804;-8,62670127;00-1e-13-79-fc-00;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-map3;Outdoor Access Point;BMAG;41,14851804;-8,62670127;00-1e-be-24-dc-9c;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-map5;Outdoor Access Point;BMAG;41,14851804;-8,62670127;00-a7-42-86-ff-90;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap10;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-9e-a6-a0;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap11;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-b0-60-10;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap12;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-f3-36-80;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap13;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-ca-88-a0;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap14;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-94-a1-e0;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap4;Outdoor Access Point;BMAG;41,14851804;-8,62670127;00-0b-85-95-ba-30;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap6;Outdoor Access Point;BMAG;41,14851804;-8,62670127;00-12-d9-40-e4-8a;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap7;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-b4-4c-80;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap8;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-b4-5a-60;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+bmag-rap9;Outdoor Access Point;BMAG;41,14851804;-8,62670127;a0-23-9f-b0-4f-90;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+z149_Ribeira_E;Outdoor Access Point;Cais da Ribeira - Ponte D. Luiz I;41,140788;-8,610225;a4-bd-c4-d0-5e-80;S Nicolau;Rua da Lada;Cedofeita
+z174_Ribeira_O;Outdoor Access Point;Cais da Ribeira - Ponte D. Luiz I;41,140788;-8,610225;a4-bd-c4-d0-61-e0;S Nicolau;Rua da Lada;Cedofeita
+cmp-rap1;Outdoor Access Point;Câmara Municipal do Porto;41,14990597;-8,61100162;00-0b-85-98-97-60;Picaria;Rua do Clube dos Fenianos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cmp-rap2;Outdoor Access Point;Câmara Municipal do Porto;41,14990597;-8,61100162;00-0b-85-95-bd-d0;Picaria;Rua do Clube dos Fenianos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+campinas-rap1;Outdoor Access Point;Campinas (R. Joaquim Leitão 272);41,16793;-8,652894;00-13-7f-5d-d1-f2;Ramalde;R Joaquim Leitão;Cedofeita
+z904_24-Agosto;Outdoor Access Point;Campo 24 de Agosto (Frente Junta Freguesia Bonfim);41,148318;-8,598332;48-8b-0a-79-dc-60;Bonfim;Campo 24 de Agosto;Bom Retiro
+z906_24-Agosto;Outdoor Access Point;Campo 24 de Agosto (Frente Junta Freguesia Bonfim);41,148318;-8,598332;48-8b-0a-7a-a3-00;Bonfim;Campo 24 de Agosto;Bom Retiro
+z905_24-Agosto;Outdoor Access Point;Campo 24 de Agosto (Frente Junta Freguesia Bonfim);41,148318;-8,598332;48-8b-0a-7a-a0-60;Bonfim;Campo 24 de Agosto;Bom Retiro
+Campo_Alegre-rap1;Outdoor Access Point;Campo Alegre FCUP (Departamento de Biologia FCUP);41,152179;-8,637947;40-ee-dd-5a-fc-a0;Campo Alegre;Rua do Campo Alegre;Lordelo do Ouro e Massarelos
+reit-Cordoaria-rap1;Outdoor Access Point;Campo Martires da Pátria - Rua do Dr. Ferreira da Silva;41,145487;-8,615694;50-5d-ac-8b-b3-00;Cordoaria;Campo dos Mártires da Pátria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z141_Cordoaria_S;Outdoor Access Point;Campo Martires da Pátria - Rua do Dr. Ferreira da Silva;41,145487;-8,615694;a4-bd-c4-d0-5e-c0;Cordoaria;Campo dos Mártires da Pátria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+carrical-rap1;Outdoor Access Point;Carriçal (Alameda 25 de Abril 272);41,178524;-8,612014;00-0f-23-34-fd-c8;Paranhos;Al 25 De Abril;Cedofeita
+carvalhido-rap1;Outdoor Access Point;Carvalhido (R. Prof. Mota Pinto 24);41,169133;-8,622419;5c-50-15-4d-45-60;Paranhos;Rua Sousa Pinto;
+cdm-map1;Indoor Access Point;Casa da Música;41,159044;-8,631082;18-33-9d-d2-30-20;Cedofeita;Avenida da Boavista;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdm-map2;Indoor Access Point;Casa da Música;41,159044;-8,631082;88-75-56-00-19-90;Cedofeita;Avenida da Boavista;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdm-map3;Indoor Access Point;Casa da Música;41,159044;-8,631082;44-e4-d9-bc-36-60;Cedofeita;Avenida da Boavista;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdm-map4;Indoor Access Point;Casa da Música;41,159044;-8,631082;00-23-eb-3b-0b-80;Cedofeita;Avenida da Boavista;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdi-rap1;Outdoor Access Point;Casa do Infante;41,140969;-8,613515;00-0b-85-95-c0-60;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdi-rap2;Outdoor Access Point;Casa do Infante;41,140969;-8,613515;a0-23-9f-b4-66-50;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdi-rap3;Outdoor Access Point;Casa do Infante;41,140969;-8,613515;a0-23-9f-9e-a7-a0;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdi-rap4;Outdoor Access Point;Casa do Infante;41,140969;-8,613515;40-01-7a-53-23-40;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cdr-map1;Outdoor Access Point;Casa do Rio;41,14793709;-8,642749225;00-0b-85-95-bb-60;Ouro;Rua do Ouro;Lordelo do Ouro e Massarelos
+Casa_Tait-rap1;Outdoor Access Point;Casa Tait;41,147949;-8,628984;44-e4-d9-bc-57-50;Vilar;Rua do Abade de Baçal;Lordelo do Ouro e Massarelos
+CasaMuseuOrtigaoBiblioteca-rap1;Indoor Access Point;Casa-Museu Marta Ortigão Sampaio (Biblioteca);41,15936893;-8,62549479;ac-75-1d-98-ad-a0;Ramada Alta;Rua de Nossa Senhora de Fátima;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+agramonte-rap1;Outdoor Access Point;Cemitério Agramonte;41,155813;-8,632519;c0-62-6b-e5-e2-20;Massarelos;R Agramonte;Cedofeita
+pradorepouso-rap1;Outdoor Access Point;Cemitério Prado do Repouso;41,143691;-8,594703;40-f4-ec-da-45-80;Bonfim;Avenida Principal do Cemitério do Prado do Repouso;Prado
+cgi-rap1;Outdoor Access Point;Centro de Gestão Integrada;41,164025;-8,614264;a0-23-9f-b4-4c-b0;Monte Pedral;Rua da Constituição;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+bonjoia_AP_antigo-rap1;Outdoor Access Point;Centro de Inovação Social - Casa Bonjóia;41,152488;-8,577019;00-3a-9a-e4-fa-90;Campanhã;Rua de Bonjóia;Bonjóia
+turismo-rap1;Outdoor Access Point;CMP Turismo;41,15010907;-8,611217312;e0-2f-6d-b4-0e-08;Picaria;Rua do Clube dos Fenianos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z175_CordoariaTribunal_N;Outdoor Access Point;Cordoaria (Estatua da justiça Tribunal);41,144953;-8,617415;a4-bd-c4-d0-61-c0;Virtudes;Rua Doutor Barbosa de Castro;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+edificio-transparente-rap1;Outdoor Access Point;Edifício Transparente;41,171379;-8,687791;2c-55-d3-60-21-c0;Anémona;Via do Castelo do Queijo;Aldoar, Foz do Douro e Nevogilde
+z307_Edifício Transparente;Outdoor Access Point;Edifício Transparente;41,171379;-8,687791;;Anémona;Via do Castelo do Queijo;Aldoar, Foz do Douro e Nevogilde
+z900_Campanha;Outdoor Access Point;Estação Campanhã (Largo da Estação);41,148734;-8,585963;48-8b-0a-7a-96-e0;Campanhã;R Estação I;Cedofeita
+z901_Campanha;Outdoor Access Point;Estação Campanhã (Largo da Estação);41,148734;-8,585963;48-8b-0a-7a-a4-a0;Campanhã;R Estação I;Cedofeita
+z902_Campanha;Outdoor Access Point;Estação Campanhã (Largo da Estação);41,148734;-8,585963;48-8b-0a-7a-b1-40;Campanhã;R Estação I;Cedofeita
+z903_Campanha;Outdoor Access Point;Estação Campanhã (Largo da Estação);41,148734;-8,585963;48-8b-0a-7a-b2-a0;Campanhã;R Estação I;Cedofeita
+z155_SBento_S;Outdoor Access Point;Estação de S.Bento (Entrada metro R. das Flores);41,145193;-8,611007;a4-bd-c4-d0-6c-40;Sé;São Bento;Cedofeita
+z156_SBento_N;Outdoor Access Point;Estação de S.Bento (Entrada metro R. das Flores);41,145193;-8,611007;a4-bd-c4-d0-6b-00;Sé;São Bento;Cedofeita
+z159_SBento_S_Sé;Outdoor Access Point;Estação de S.Bento (Entrada metro R. das Flores);41,145193;-8,611007;a4-bd-c4-d0-6c-80;Sé;São Bento;Cedofeita
+Armario_IPO-rap1;Outdoor Access Point;Estrada da Circunvalação - Rua Dr. Antonio Bernadino de Almeida;41,183786;-8,603245;40-ee-dd-5b-01-60;Paranhos;Estrada da Circunvalação;Asprela
+ipo-rap1;Outdoor Access Point;Estrada da Circunvalação - Rua Dr. Antonio Bernadino de Almeida;41,183786;-8,603245;00-14-1c-d4-46-0e;Paranhos;Estrada da Circunvalação;Asprela
+z604_Circunvalacao-RobertoFrias;Outdoor Access Point;Estrada da Circunvalação-  Rua Dr. Roberto Frias;41,181882;-8,597229;48-8b-0a-76-55-a8;Paranhos;Rua Doutor Roberto Frias;Lamas
+z605_Circunvalacao-RobertoFrias;Outdoor Access Point;Estrada da Circunvalação-  Rua Dr. Roberto Frias;41,181882;-8,597229;;Paranhos;Rua Doutor Roberto Frias;Lamas
+z606_Circunvalacao-RobertoFrias;Outdoor Access Point;Estrada da Circunvalação-  Rua Dr. Roberto Frias;41,181882;-8,597229;;Paranhos;Rua Doutor Roberto Frias;Lamas
+z126_SaBandeira-F.Tomas-S;Outdoor Access Point;Fernandes Tomás - Rua Sá da Bandeira;41,15013;-8,607047;a4-bd-c4-d0-6b-a0;Santo Ildefonso;Beleza;Cedofeita
+z127_SaBandeira-F.Tomas-E;Outdoor Access Point;Fernandes Tomás - Rua Sá da Bandeira;41,15013;-8,607047;a4-bd-c4-d0-6b-e0;Santo Ildefonso;Beleza;Cedofeita
+z128_SaBandeira-F.Tomas-O;Outdoor Access Point;Fernandes Tomás - Rua Sá da Bandeira;41,15013;-8,607047;a4-bd-c4-d0-5d-00;Santo Ildefonso;Beleza;Cedofeita
+fmagalhaes-rap1;Outdoor Access Point;Fernão de Magalhães (R. do Prof. Bonfim Barreiros 120);41,169549;-8,583904;28-93-fe-c9-f3-40;Campanhã;R Prof Bonfim Barreiros;Cedofeita
+fmoura-rap1;Outdoor Access Point;Fonte da Moura (R.Penafiel 87);41,165443;-8,660499;10-bd-18-6c-ac-40;Ramalde;R Penafiel;Cedofeita
+francos-rap1;Outdoor Access Point;Francos (Rua do Padre Américo 305);41,167539;-8,638907;64-ae-0c-91-2e-e0;Ramalde;R Padre Américo;Cedofeita
+hju-rap1;Outdoor Access Point;Hospital Joaquim Urbano;41,155019;-8,59331;a0-23-9f-3d-8a-40;Bonfim;Travessa de Gomes Leal;Montebelo
+hju-rap2;Outdoor Access Point;Hospital Joaquim Urbano;41,155019;-8,59331;a0-23-9f-b4-4d-00;Bonfim;Travessa de Gomes Leal;Montebelo
+hju-rap3;Outdoor Access Point;Hospital Joaquim Urbano;41,155019;-8,59331;a0-23-9f-9e-b3-80;Bonfim;Travessa de Gomes Leal;Montebelo
+z701_JardimArcaDAgua;Outdoor Access Point;Jardim Arca D'Agua - Rua de Monsanto;41,171838;-8,612659;48-8b-0a-7a-99-60;Paranhos;Praça 9 de Abril (82);Cedofeita
+z702_JardimArcaDAgua;Outdoor Access Point;Jardim Arca D'Agua - Rua de Monsanto;41,171838;-8,612659;48-8b-0a-7a-95-40;Paranhos;Praça 9 de Abril (82);Cedofeita
+z703_JardimArcaDAgua;Outdoor Access Point;Jardim Arca D'Agua - Rua de Monsanto;41,171838;-8,612659;48-8b-0a-7a-c3-e0;Paranhos;Praça 9 de Abril (82);Cedofeita
+bot-rap1;Outdoor Access Point;Jardim Botânico;41,15405166;-8,642334638;00-0f-23-34-fe-07;Lordelo do Ouro;R Campo Alegre;Cedofeita
+roseiral-rap1;Outdoor Access Point;Jardim Casa do Roserial;41,145991;-8,624561;9c-4e-20-5d-19-e0;Palácio;Rua de Jorge Viterbo Ferreira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+marques-rap1;Outdoor Access Point;Jardim do Marquês (Coreto);41,161656;-8,604243;58-f9-87-48-df-a0;Marquês;Praça do Marquês de Pombal;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+dmasu-rap1;Outdoor Access Point;Jardim Palácio Cristal;41,14854044;-8,625318068;00-0f-23-34-fd-e5;Massarelos;R D Manuel Ii;Cedofeita
+snicolau-rap1;Outdoor Access Point;Junta de freguesia de são nicolau;41,14104383;-8,617419228;00-0e-38-8e-07-be;São João Novo;Calçada Forno Velho;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+lagarteiro-rap1;Outdoor Access Point;Lagarteiro (Alameda Arquitecto Carlos Ramos 208);41,153532;-8,566993;00-13-60-7c-9a-f1;Campanhã;Al Arq Carlos Ramos;Cedofeita
+largo-calem-rap1;Outdoor Access Point;Largo António Calém - Paragem Comboio (Fluvial);41,148546;-8,65368;04-b0-e7-2d-2b-e0;Lordelo do Ouro;Fluvial;Cedofeita
+z168_L.SaoDomingos_S;Outdoor Access Point;Largo de S. Domingos - Rua de Sousa Viterbo;41,142757;-8,614634;a4-bd-c4-d0-6e-a0;São Domingos;Largo de São Domingos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z169_L.SaoDomingos_N;Outdoor Access Point;Largo de S. Domingos - Rua de Sousa Viterbo;41,142757;-8,614634;a4-bd-c4-d0-6b-c0;São Domingos;Largo de São Domingos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z524_Priorado-AníbalCunha;Outdoor Access Point;Largo do Priorado - Rua de Aníbal Cunha;41,155675;-8,620956;48-8b-0a-79-d7-80;Cedofeita;R Anibal Cunha;Cedofeita
+z525_Priorado-AníbalCunha;Outdoor Access Point;Largo do Priorado - Rua de Aníbal Cunha;41,155675;-8,620956;48-8b-0a-7a-a1-a0;Cedofeita;R Anibal Cunha;Cedofeita
+largo-loios-rap1;Outdoor Access Point;Largo dos Loios;41,145399;-8,612085;70-b3-17-06-78-a6;Sé;Lg Loios;Cedofeita
+AlexandreHerculanoBiblioteca-rap1;Indoor Acess Point;Liceu Alexandre Herculano (Biblioteca);41,14879712;-8,594424514;f4-4c-7f-ad-d1-40;Bonfim;Avenida de Camilo;Vera Cruz
+PSPComando-rap1;Outdoor Access Point;Largo Primeiro de Dezembro (PSP);41,142803;-8,609192;a0-23-9f-9e-b6-90;Sé;Largo Primeiro de Dezembro;Cedofeita
+lordelo-rap1;Outdoor Access Point;Lordelo do Ouro (R. Dr. Gil da Costa 64);41,156396;-8,653327;00-0e-38-8e-05-e0;Lordelo do Ouro;R Dr Gil Costa;Cedofeita
+lordelo-rap2;Outdoor Access Point;Lordelo do Ouro (R. Dr. Gil da Costa 64);41,156396;-8,653327;68-bd-ab-02-ab-e0;Lordelo do Ouro;R Dr Gil Da Costa;Cedofeita
+mercadofoz-rap1;Outdoor Access Point;Mercado da Foz;41,154522;-8,674168;00-27-e3-84-64-38;Foz do Douro;Rua de Diu;Aldoar, Foz do Douro e Nevogilde
+mercadofoz-rap2;Outdoor Access Point;Mercado da Foz;41,154522;-8,674168;00-a7-42-84-d4-68;Foz do Douro;Rua de Diu;Aldoar, Foz do Douro e Nevogilde
+mercadofoz-rap3;Outdoor Access Point;Mercado da Foz;41,154522;-8,674168;00-27-e3-48-de-d0;Foz do Douro;Rua de Diu;Aldoar, Foz do Douro e Nevogilde
+MB-Balneario Piso-0;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;40-ee-dd-5a-f9-60;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-Corredor Bast AD0;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;dc-99-14-e6-65-40;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-Cozinha das Tripas;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;dc-99-14-7b-68-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-Cozinha-apoio-ShowCook;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;dc-99-14-7b-6f-e0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-Cozinha-ShowCook;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;dc-99-14-7b-58-e0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P0N Corredor Nascente;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;50-5d-ac-8b-b1-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P0N Corredor Poente;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;50-5d-ac-8b-b2-60;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1N Corredor Arrumos Norte;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;40-ee-dd-5a-f0-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1N Hall Elevadores Norte;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;50-5d-ac-8b-b3-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1S Corredor Arrumos Su;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;2c-55-d3-60-22-40;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1S Corredor sala tec;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;40-ee-dd-5a-fb-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1Tec Corredor;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;40-ee-dd-5a-fb-80;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-P-1Tec Sala;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;40-ee-dd-5a-ff-60;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+MB-Sala-Vigilancia;Indoor Access Point;Mercado do Bolhao;41,148829;-8,607359;f8-6e-ee-b9-e2-40;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap1;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9c-60;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap10;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9e-20;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap11;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9e-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap12;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9f-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap13;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-a0-80;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap14;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-a1-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap15;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-a5-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap16;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-ac-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap17;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-bc-e0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap18;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-c0-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap19;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-c7-80;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap2;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9d-00;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap20;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-99-20;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap21;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-ad-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap22;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-b5-60;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap23;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-a5-e0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap24;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-ac-80;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap3;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9a-20;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap4;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-97-20;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap5;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9e-c0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap6;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-96-20;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap7;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-96-40;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap8;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-97-80;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Mercado-Bolhao-rap9;Outdoor Access Point;Mercado do Bolhao;41,148829;-8,607359;48-8b-0a-7a-9d-a0;Bolhão;Rua de Sá da Bandeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+ATP-Se-Piso-1;Indoor Access Point;Miguel Bombarda ATP;41,149936;-8,619178;60-de-f3-96-10-60;Cedofeita;R Miguel Bombarda;Cedofeita
+ATP-Se-Piso-2;Indoor Access Point;Miguel Bombarda ATP;41,149936;-8,619178;60-de-f3-96-10-40;Cedofeita;R Miguel Bombarda;Cedofeita
+AtlieAntonioCarneiroSalaExposicaoPisoMenos1;Indoor Access Point;Museu da Cidade - Ateliê António Carneiro;41,14966673;-8,593861826;f4-4c-7f-ad-cf-20;Bonfim;Rua de António Carneiro;Bom Retiro
+AtlieAntonioCarneiroSalaExposicaoPiso0;Indoor Access Point;Museu da Cidade - Ateliê António Carneiro;41,14966673;-8,593861826;f4-4c-7f-ad-cf-e0;Bonfim;Rua de António Carneiro;Bom Retiro
+AtlieAntonioCarneiroSalaExposicaoPiso0;Indoor Access Point;Museu da Cidade - Ateliê António Carneiro;41,14966673;-8,593861826;f4-4c-7f-af-21-00;Bonfim;Rua de António Carneiro;Bom Retiro
+MuseuReservatorioPasteleira-rap2;Outdoor Access Point;Museu Reservatorio Pasteleira;41,151823;-8,661267;44-e4-d9-40-8f-30;Foz do Douro;R Andre De Resende;Cedofeita
+MuseuReservatorioPasteleira-rap3;Outdoor Access Point;Museu Reservatorio Pasteleira;41,151823;-8,661267;28-93-fe-c9-b5-50;Foz do Douro;R Andre De Resende;Cedofeita
+MuseuReservatorioPasteleira-rap4;Outdoor Access Point;Museu Reservatorio Pasteleira;41,151823;-8,661267;40-01-7a-dd-eb-a0;Foz do Douro;R Andre De Resende;Cedofeita
+outeiro-rap1;Outdoor Access Point;Outeiro (R. do Actor Eduardo Brazão 216);41,174156;-8,598162;40-f4-ec-b2-51-e0;Paranhos;R Actor Eduardo Brazao;Cedofeita
+PdB_Auditorio_segundo_piso;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-31-a0;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Patio_Principal_direita;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-33-00;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Patio_Principal_esquerda;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-33-c0;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Assembleias_Gerais;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-31-e0;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_dos_Retratos;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-33-60;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Dourada;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-30-00;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Presidencial;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;f4-4c-7f-ad-d2-00;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Tribunal;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-31-20;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Tribunal_sala_pequena;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;f4-4c-7f-ad-d0-a0;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Sala_Xadrez;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;f4-4c-7f-75-eb-40;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+PdB_Salao_Arabe;Indoor Access Point;Palácio da Bolsa;41,141391;-8,615675;5c-54-6d-34-30-c0;Bolhão;Rua da Alegria;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+pantunes-rap1;Outdoor Access Point;Parceria Antunes (Tv. Parceria 3);41,151474;-8,624243;10-bd-18-4d-a6-50;Massarelos;Lg Maternidade Julio Dinis;Cedofeita
+ParqueSRoque-rap2;Outdoor Access Point;Parque de S. Roque;41,159159;-8,588864;10-b3-d6-df-b3-80;Campanhã;Parque de São Roque;
+ParqueSRoque-rap4;Outdoor Access Point;Parque de S. Roque;41,159159;-8,588864;70-b3-17-88-83-40;Campanhã;Parque de São Roque;
+ParqueSRoque-rap5;Outdoor Access Point;Parque de S. Roque;41,159159;-8,588864;08-ec-f5-dd-d3-a0;Campanhã;Parque de São Roque;
+ParqueSRoque-rap6;Outdoor Access Point;Parque de S. Roque;41,159159;-8,588864;10-b3-d6-df-b4-e0;Campanhã;Parque de São Roque;
+ParqueSRoque-rapPortaLateral;Outdoor Access Point;Parque de S. Roque;41,159159;-8,588864;70-b3-17-d0-95-40;Campanhã;Parque de São Roque;
+z322_PraiaMolhe;Outdoor Access Point;Parque Infantil Praia do Homem do Leme;41,159579;-8,684739;48-8b-0a-76-55-a0;Nevogilde;Av Montevideu;Cedofeita
+z323_PraiaMolhe;Outdoor Access Point;Parque Infantil Praia do Homem do Leme;41,159579;-8,684739;48-8b-0a-76-59-78;Nevogilde;Av Montevideu;Cedofeita
+ptorres-rap1;Outdoor Access Point;Pinheiro Torres (R. Dr. Nuno Pinheiro Torres 7);41,15481;-8,654666;00-0f-23-34-fe-34;Lordelo do Ouro;R Dr Nuno Pinheiro Torres;Cedofeita
+pioXII-rap1;Outdoor Access Point;Pio XII (R. do Pio XII 92);41,17362;-8,58176;9c-4e-20-5d-19-a0;Campanhã;Rua Armando Campos;
+portolazer-rap1;Outdoor Access Point;Piscina Municipal da Constituição;41,16531104;-8,613744323;70-db-98-aa-68-c0;Monte Pedral;Rua Almirante Leote do Rego;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+portolazer-rap3;Outdoor Access Point;Piscina Municipal de Cartes;41,15993159;-8,573301345;00-27-e3-48-e9-a8;Campanhã;Alameda de Cartes;Cartes
+portolazer-rap2;Outdoor Access Point;Piscina Municipal Eng.º Armando Pimentel;41,15021813;-8,661694498;00-27-e3-84-64-88;Foz do Douro;Rua Luís Veiga;Aldoar, Foz do Douro e Nevogilde
+iapmei-rap1;Outdoor Access Point;Polo IAPMEI (IAPMEI - POP);41,174399;-8,658802;00-14-1c-9a-e2-b0;Ramalde;Rua António da Silva Marinho;
+iapmei-rap2;Outdoor Access Point;Polo IAPMEI (IAPMEI - POP);41,174399;-8,658802;00-0f-23-94-43-10;Ramalde;Rua António da Silva Marinho;
+Polo-A-rap1;Outdoor Access Point;Polo IAPMEI (ISAG - POP);41,175232;-8,657289;9c-4e-20-5d-16-f0;Ramalde;Rua António da Silva Marinho;
+Polo-C - Bonfim;Indoor Access Point;PoP C - Bonfim;41,151409;-8,595044;dc-99-14-7b-d2-60;Bonfim;Rua de Barros Lima;Montebelo
+Teste-Bonfim;Outdoor Access Point;PoP C - Bonfim;41,151409;-8,595044;48-8b-0a-7a-9d-40;Bonfim;Rua de Barros Lima;Montebelo
+Polo-D-rap1;Indoor Access Point;PoP D - Reitoria;41,146671;-8,615672;34-bd-c8-54-26-e0;Cordoaria;Praça de Gomes Teixeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+reit-rap1;Outdoor Access Point;PoP D - Reitoria;41,146671;-8,615672;00-0b-85-95-ba-00;Cordoaria;Praça de Gomes Teixeira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z144_PracaDJoaoI_S;Outdoor Access Point;Praça D.João I - Sá da bandeira - Frente ao estacionamento subterrâneo;41,147511;-8,608703;a4-bd-c4-d0-6b-60;Santo Ildefonso;Rua de Passos Manuel;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z145_PracaDJoaoI_E;Outdoor Access Point;Praça D.João I - Sá da bandeira - Frente ao estacionamento subterrâneo;41,147511;-8,608703;a4-bd-c4-d0-6d-00;Santo Ildefonso;Rua de Passos Manuel;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z146_PracaDJoaoI_O;Outdoor Access Point;Praça D.João I - Sá da bandeira - Frente ao estacionamento subterrâneo;41,147511;-8,608703;a4-bd-c4-d0-56-60;Santo Ildefonso;Rua de Passos Manuel;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z119_PracaTrindade-S;Outdoor Access Point;Praça da Trindade - Rua Clube dos Fenianos;41,150416;-8,610787;90-16-ba-08-1e-a0;Santo Ildefonso;Rua do Clube dos Fenianos;Cedofeita
+z120_PracaTrindade-N;Outdoor Access Point;Praça da Trindade - Rua Clube dos Fenianos;41,150416;-8,610787;a4-bd-c4-d0-61-80;Santo Ildefonso;Rua do Clube dos Fenianos;Cedofeita
+z186_CarlosAlberto_S;Outdoor Access Point;Praça de Carlos Alberto - Rua de Cedofeita;41,148824;-8,616272;a4-bd-c4-d0-5e-40;Vitória;Pc Carlos Alberto;Cedofeita
+z187_CarlosAlberto_N;Outdoor Access Point;Praça de Carlos Alberto - Rua de Cedofeita;41,148824;-8,616272;a4-bd-c4-d0-5f-e0;Vitória;Pc Carlos Alberto;Cedofeita
+reit-CarlosAlberto-rap1;Outdoor Access Point;Praça de Gomes Teixeira - Praça de Carlos Alberto;41,147332;-8,615892;50-5d-ac-8b-b3-60;Vitória;Pc Gomes Teixeira;Cedofeita
+z183_P.Leoes_E;Outdoor Access Point;Praça de Gomes Teixeira - Praça de Carlos Alberto;41,147332;-8,615892;a4-bd-c4-d0-6b-80;Vitória;Pc Gomes Teixeira;Cedofeita
+fap-rap1;Outdoor Access Point;Praça de Lisboa  (FAP - Polo-0);41,14601;-8,614767;00-a7-42-90-c4-80;Clérigos;Rua de São Filipe de Nery;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+fap-rap2;Outdoor Access Point;Praça de Lisboa  (FAP - Polo-0);41,14601;-8,614767;40-01-7a-dd-ee-50;Clérigos;Rua de São Filipe de Nery;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+reit-PLisboa-rap1;Outdoor Access Point;Praça de Lisboa  (FAP - Polo-0);41,14601;-8,614767;40-ee-dd-5a-fe-e0;Clérigos;Rua de São Filipe de Nery;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+reit-Piolho-rap1;Outdoor Access Point;Praça de Parada Leitão - Praça de Gomes Teixeira;41,147093;-8,616175;40-ee-dd-5b-00-a0;Cordoaria;Praça de Parada Leitão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z140_Piolho_E;Outdoor Access Point;Praça de Parada Leitão - Praça de Gomes Teixeira;41,147093;-8,616175;a4-bd-c4-d0-5e-60;Cordoaria;Praça de Parada Leitão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z181_Piolho_O;Outdoor Access Point;Praça de Parada Leitão - Praça de Gomes Teixeira;41,147093;-8,616175;a4-bd-c4-d0-62-20;Cordoaria;Praça de Parada Leitão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z182_Piolho_S;Outdoor Access Point;Praça de Parada Leitão - Praça de Gomes Teixeira;41,147093;-8,616175;a4-bd-c4-d0-61-60;Cordoaria;Praça de Parada Leitão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+cedofeita-rap1;Outdoor Access Point;Praça de Pedro Nunes;41,155851;-8,623208;00-13-60-ef-b8-e0;Carvalhosa;Rua Joaquim de Vasconcelos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z522_PedroNunes;Outdoor Access Point;Praça de Pedro Nunes;41,155851;-8,623208;48-8b-0a-7a-95-60;Carvalhosa;Rua Joaquim de Vasconcelos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z523_PedroNunes;Outdoor Access Point;Praça de Pedro Nunes;41,155851;-8,623208;48-8b-0a-7a-97-00;Carvalhosa;Rua Joaquim de Vasconcelos;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Praca-Republica-rap1;Outdoor Access Point;Praca-Republica -  Rua de Álvares Cabral;41,154251;-8,613411;50-5d-ac-8b-b1-c0;Cedofeita;R Álvares Cabral;Cedofeita
+queimodromo-rap1;Outdoor Access Point;Queimodromo - Paragem Bus(Dr. Afonso Cordeiro);41,173574;-8,685134;dc-99-14-e6-63-c0;Estrada Interior da Circunvalação;Nevogilde;Aldoar, Foz do Douro e Nevogilde
+domus-rap2;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;a0-23-9f-f3-18-90;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap3;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;a0-23-9f-ca-a4-60;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap5;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;00-27-e3-48-e3-50;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap6;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;70-db-98-aa-65-d0;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap7;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;f8-0b-cb-a1-9f-d0;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap8;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;a0-23-9f-94-b0-60;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+domus-rap9;Outdoor Access Point;R. do Monte dos Burgos (Domus Social);41,169768;-8,625485;a0-23-9f-ca-95-10;Paranhos;Rua do Monte dos Burgos;Santa Luzia
+regado-rap1;Outdoor Access Point;;41,174991;-8,615553;00-23-eb-3b-0d-50;Paranhos;R Avelar Brotero;Cedofeita
+SRU_Sala_comum;Indoor Access Point; SRU (Rua de Mouzinho da Silveira);41,14362973;-8,612882218;dc-99-14-7a-c6-40;Sé;Mouzinho da Silveira;Cedofeita
+z303_Rotunda Anemona;Outdoor Access Point;Rotunda Anémona;41,17341;-8,68815;48-8b-0a-7a-9a-e0;Matosinhos Sul;Estrada Exterior da Circunvalação;Matosinhos e Leça da Palmeira
+z304_Rotunda Anemona;Outdoor Access Point;Rotunda Anémona;41,17341;-8,68815;48-8b-0a-7a-b0-40;Matosinhos Sul;Estrada Exterior da Circunvalação;Matosinhos e Leça da Palmeira
+z305_Rotunda Anemona;Outdoor Access Point;Rotunda Anémona;41,17341;-8,68815;48-8b-0a-76-5a-d8;Matosinhos Sul;Estrada Exterior da Circunvalação;Matosinhos e Leça da Palmeira
+z306_Rotunda Anemona;Outdoor Access Point;Rotunda Anémona;41,17341;-8,68815;48-8b-0a-7a-a2-60;Matosinhos Sul;Estrada Exterior da Circunvalação;Matosinhos e Leça da Palmeira
+z601_ABAlmeida-PlacidoCosta;Outdoor Access Point;Rua Bernardino de Almeida - Rua Dr.Plácido da Costa;41,180204;-8,605196;48-8b-0a-7a-9c-c0;Paranhos;Rua Doutor António Bernardino de Almeida;Asprela
+z602_ABAlmeida-PlacidoCosta;Outdoor Access Point;Rua Bernardino de Almeida - Rua Dr.Plácido da Costa;41,180204;-8,605196;48-8b-0a-7a-9c-a0;Paranhos;Rua Doutor António Bernardino de Almeida;Asprela
+z603_ABAlmeida-PlacidoCosta;Outdoor Access Point;Rua Bernardino de Almeida - Rua Dr.Plácido da Costa;41,180204;-8,605196;48-8b-0a-79-9a-a0;Paranhos;Rua Doutor António Bernardino de Almeida;Asprela
+Antero_Quental-rap1;Outdoor Access Point;Rua da Constituição - Rua de Antero de Quental;41,162758;-8,611055;40-ee-dd-5b-01-80;Cedofeita;Rua Antero de Quental;Cedofeita
+z123_Firmeza-S;Outdoor Access Point;Rua da Firmeza - Rua Sá da Bandeira;41,151026;-8,606769;a4-bd-c4-d0-6b-20;Santo Ildefonso;Rua de Sá da Bandeira;Cedofeita
+z153_Reboleira_O;Outdoor Access Point;Rua da Reboleira - Rua Infante D.Henrique;41,140457;-8,616007;a4-bd-c4-d0-6c-c0;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+z173_Reboleira_E;Outdoor Access Point;Rua da Reboleira - Rua Infante D.Henrique;41,140457;-8,616007;a4-bd-c4-d0-56-e0;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+z143_Restauração_S;Outdoor Access Point;Rua da Restauração - R. Prof. Vicente José de Carvalho;41,146429;-8,617811;a4-bd-c4-d0-59-a0;Cordoaria;Largo do Professor Abel Salazar;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z180_Restauração_E;Outdoor Access Point;Rua da Restauração - R. Prof. Vicente José de Carvalho;41,146429;-8,617811;a4-bd-c4-d0-6d-c0;Cordoaria;Largo do Professor Abel Salazar;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z118_Trindade-E;Outdoor Access Point;Rua da Trindade - Rua de Fernandes Tomas;41,15077;-8,610013;a4-bd-c4-d0-66-60;Santo Ildefonso;Rua de Fernandes Tomás;Cedofeita
+z116_Trindade-S;Outdoor Access Point;Rua da Trindade - Rua do Estêvão;41,150685;-8,610239;a4-bd-c4-d0-60-e0;Trindade;Rua de Fernandes Tomás;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z117_Trindade-N;Outdoor Access Point;Rua da Trindade - Rua do Estêvão;41,150685;-8,610239;90-16-ba-08-1b-a0;Trindade;Rua de Fernandes Tomás;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z115_ParqueTrindade-N;Outdoor Access Point;Rua da Trindade - Saída Parque da Trindade;41,151394;-8,609513;a4-bd-c4-d0-6e-20;Trindade;Rua da Trindade;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z301_Vilarinha-AvenidaParque;Outdoor Access Point;Rua da Vilarinha - Rua de Martim Moniz;41,170556;-8,67087;;Aldoar;Avenida do Parque;Cedofeita
+z178_Carmelitas_O;Outdoor Access Point;Rua das Carmelitas - Rua de Cândido dos Reis;41,146205;-8,614037;a4-bd-c4-d0-6b-40;Vitória;Rua das Carmelitas;Cedofeita
+z179_Carmelitas_N;Outdoor Access Point;Rua das Carmelitas - Rua de Cândido dos Reis;41,146205;-8,614037;a4-bd-c4-d0-56-a0;Vitória;Rua das Carmelitas;Cedofeita
+z157_RuaFlores_E;Outdoor Access Point;Rua das Flores - Rua Trindade Coelho;41,144889;-8,611846;a4-bd-c4-d0-6c-60;Sé;R Flores;Cedofeita
+z158_RuaFlores_O;Outdoor Access Point;Rua das Flores - Rua Trindade Coelho;41,144889;-8,611846;a4-bd-c4-d0-5a-20;Sé;R Flores;Cedofeita
+z165_AlexandreHerculano_O;Outdoor Access Point;Rua de Alexandre Herculano - Rua das Fontaínhas;41,143142;-8,602192;a4-bd-c4-d0-5f-80;Sé;R Alexandre Herculano;Cedofeita
+z166_Fontainhas_O;Outdoor Access Point;Rua de Alexandre Herculano - Rua das Fontaínhas;41,143142;-8,602192;a4-bd-c4-d0-60-20;Sé;R Alexandre Herculano;Cedofeita
+z162_AugustoRosa_S;Outdoor Access Point;Rua de Augusto Rosa (Entrada Guindais);41,143327;-8,608072;a4-bd-c4-d0-5d-20;Batalha;Rua do Sol;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z163_AugustoRosa_N;Outdoor Access Point;Rua de Augusto Rosa (Entrada Guindais);41,143327;-8,608072;a4-bd-c4-d0-5e-e0;Batalha;Rua do Sol;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+Barros_Lima-Bonfim-rap1;Outdoor Access Point;Rua de Barros Lima - Rua do Bonfim;41,150908;-8,594141;40-ee-dd-5a-f7-e0;Bonfim;R Bonfim;Cedofeita
+z106_GoncaloCristovao-Camoes-S;Outdoor Access Point;Rua de Camões - Por baixo do Viaduto Gonçalo Cristovão;41,153595;-8,609998;a4-bd-c4-d0-60-40;Trindade;Rua de Gonçalo Cristóvão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z113_AlferesMalheiro-Camoes-S;Outdoor Access Point;Rua de Camões - Rua Alferes Malheiro;41,151918;-8,610037;90-16-ba-08-1f-c0;Santo Ildefonso;R Camões;Cedofeita
+z114_AlferesMalheiro-Camoes-E;Outdoor Access Point;Rua de Camões - Rua Alferes Malheiro;41,151918;-8,610037;a4-bd-c4-d0-6e-40;Santo Ildefonso;R Camões;Cedofeita
+z190_Cedofeita_S;Outdoor Access Point;Rua de Cedofeita - Rua do Breiner;41,151625;-8,617675;a4-bd-c4-d0-60-60;Figueiroa;Rua de Cedofeita;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+opolab-new-rap2;Outdoor Access Point;Rua de D.João IV - OPO'LAB;41,152376;-8,602429491;00-06-f6-b3-bc-e8;Bonfim;R D João Iv;Cedofeita
+opolab-rap1;Outdoor Access Point;Rua de D.João IV - OPO'LAB;41,152376;-8,602429491;e0-2f-6d-b4-11-72;Bonfim;R D João Iv;Cedofeita
+opolab-rap3;Outdoor Access Point;Rua de D.João IV - OPO'LAB;41,152376;-8,602429491;e0-2f-6d-b4-11-10;Bonfim;R D João Iv;Cedofeita
+z341_JardimAnteroFigueiredo;Outdoor Access Point;Rua de Diu-Jardim Antero de Figueiredo;41,154193;-8,674411;48-8b-0a-7a-a2-40;Foz do Douro;R Diu;Cedofeita
+z164_Ceuta-JoseFalcao_N;Outdoor Access Point;Rua de José Falcão - Rua de Ceuta;41,148401;-8,614301;a4-bd-c4-d0-5d-a0;Vitória;R Ceuta;Cedofeita
+z184_Ceuta-JoseFalcao_S;Outdoor Access Point;Rua de José Falcão - Rua de Ceuta;41,148401;-8,614301;a4-bd-c4-d0-5f-40;Vitória;R Ceuta;Cedofeita
+z185_Ceuta-JoseFalcao_E;Outdoor Access Point;Rua de José Falcão - Rua de Ceuta;41,148401;-8,614301;a4-bd-c4-d0-6a-40;Vitória;R Ceuta;Cedofeita
+z512_PracaGaliza;Outdoor Access Point;Rua de Júlio Dinis - Praça da Galiza;41,152525;-8,626294;;Massarelos;R Piedade;Cedofeita
+z513_PracaGaliza;Outdoor Access Point;Rua de Júlio Dinis - Praça da Galiza;41,152525;-8,626294;;Massarelos;R Piedade;Cedofeita
+z514_PracaGaliza;Outdoor Access Point;Rua de Júlio Dinis - Praça da Galiza;41,152525;-8,626294;;Massarelos;R Piedade;Cedofeita
+z515_PracaGaliza;Outdoor Access Point;Rua de Júlio Dinis - Praça da Galiza;41,152525;-8,626294;;Massarelos;R Piedade;Cedofeita
+z516_JulioDinis-Manuel-II;Outdoor Access Point;Rua de Júlio Dinis - Rua de Dom Manuel II;41,148818;-8,625452;;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+z517_JulioDinis-Manuel-II;Outdoor Access Point;Rua de Júlio Dinis - Rua de Dom Manuel II;41,148818;-8,625452;;Vilar;Rua de Dom Manuel II;Lordelo do Ouro e Massarelos
+z201_MonchiqueCaisNovo;Outdoor Access Point;Rua de Monchique - Paragem Comboio(Monchique);41,144777;-8,626753;48-8b-0a-76-59-a8;Massarelos;Rua de Monchique;Lordelo do Ouro e Massarelos
+z202_MonchiqueCaisNovo;Outdoor Access Point;Rua de Monchique - Paragem Comboio(Monchique);41,144777;-8,626753;48-8b-0a-76-55-b4;Massarelos;Rua de Monchique;Lordelo do Ouro e Massarelos
+z142_RuaS.João_N;Outdoor Access Point;Rua de S. João (Ribeira) - Tunel da Ribeira;41,141309;-8,61335;a4-bd-c4-d0-5e-00;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z172_RuaS.João_S;Outdoor Access Point;Rua de S. João (Ribeira) - Tunel da Ribeira;41,141309;-8,61335;a4-bd-c4-d0-6d-60;Barredo;Rua de São João;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z111_SaBandeira-GuedesAzevedo-N;Outdoor Access Point;Rua de Sá da Bandeira - Rua Guedes de Azvedo;41,152078;-8,60611;a4-bd-c4-d0-62-80;Fradelos;Rua de Guedes de Azevedo;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z112_SaBandeira-GuedesAzevedo-S;Outdoor Access Point;Rua de Sá da Bandeira - Rua Guedes de Azvedo;41,152078;-8,60611;a4-bd-c4-d0-61-40;Fradelos;Rua de Guedes de Azevedo;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z124_Firmeza-SantaCatarina-N;Outdoor Access Point;Rua de Santa Catarina - Rua da Firmeza;41,150747;-8,605453;a4-bd-c4-d0-65-a0;Bolhão;Rua de Santa Catarina;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z125_Firmeza-SantaCatarina-S;Outdoor Access Point;Rua de Santa Catarina - Rua da Firmeza;41,150747;-8,605453;a4-bd-c4-d0-6d-a0;Bolhão;Rua de Santa Catarina;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z147_PassosManuel_S;Outdoor Access Point;Rua de Santa Catarina - Rua de Passos Manuel;41,146991;-8,606772;a4-bd-c4-d0-5f-20;Santo Ildefonso;Rua de Santa Catarina;Cedofeita
+z148_PassosManuel_N;Outdoor Access Point;Rua de Santa Catarina - Rua de Passos Manuel;41,146991;-8,606772;a4-bd-c4-d0-62-a0;Santo Ildefonso;Rua de Santa Catarina;Cedofeita
+z150_PassosManuel_E;Outdoor Access Point;Rua de Santa Catarina - Rua de Passos Manuel;41,146991;-8,606772;a4-bd-c4-d0-6e-60;Santo Ildefonso;Rua de Santa Catarina;Cedofeita
+z129_F.Tomas-SantaCatarina-S;Outdoor Access Point;Rua de Santa Catarina - Rua Fernandes Tomás;41,149756;-8,605761;a4-bd-c4-d0-62-e0;Santo Ildefonso;Rua de Santa Catarina;Cedofeita
+z130_F.Tomas-SantaCatarina-N;Outdoor Access Point;Rua de Santa Catarina - Rua Fernandes Tomás;41,149756;-8,605761;a4-bd-c4-d0-6d-80;Santo Ildefonso;Rua de Santa Catarina;Cedofeita
+z176_SantaCatarina-TravessaDaFontinha-N;Outdoor Access Point;Rua de Santa Catarina - Travessa da Fontinha;41,154872;-8,604737;a4-bd-c4-d0-5d-40;Santo Ildefonso;R S Catarina;Cedofeita
+z177_SantaCatarina-TravessaDaFontinha-S;Outdoor Access Point;Rua de Santa Catarina - Travessa da Fontinha;41,154872;-8,604737;a4-bd-c4-d0-6e-c0;Santo Ildefonso;R S Catarina;Cedofeita
+z121_Bolhao-S;Outdoor Access Point;Rua do Bolhão - Rua da Firmeza;41,15103;-8,607335;a4-bd-c4-d0-6d-40;Bolhão;Rua do Bolhão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z122_Bolhao-N;Outdoor Access Point;Rua do Bolhão - Rua da Firmeza;41,15103;-8,607335;a4-bd-c4-d0-6c-00;Bolhão;Rua do Bolhão;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z203_OuroBoaMorte;Outdoor Access Point;Rua do Ouro - Calçada Ouro;41,148141;-8,64865;48-8b-0a-7a-ae-a0;Lordelo do Ouro;R Senhor Da Boa Morte;Cedofeita
+z204_OuroBoaMorte;Outdoor Access Point;Rua do Ouro - Calçada Ouro;41,148141;-8,64865;48-8b-0a-7a-97-60;Lordelo do Ouro;R Senhor Da Boa Morte;Cedofeita
+z518_Manuel-II-AiresGouveia;Outdoor Access Point;Rua Dom Manuel II - Rua Dr. Alberto Aires de Gouveia;41,147281;-8,620339;48-8b-0a-7a-95-e0;Cordoaria;Largo do Professor Abel Salazar;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z519_Manuel-II-AiresGouveia;Outdoor Access Point;Rua Dom Manuel II - Rua Dr. Alberto Aires de Gouveia;41,147281;-8,620339;48-8b-0a-7a-95-a0;Cordoaria;Largo do Professor Abel Salazar;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z520_Manuel-II-AiresGouveia;Outdoor Access Point;Rua Dom Manuel II - Rua Dr. Alberto Aires de Gouveia;41,147281;-8,620339;48-8b-0a-7a-c5-00;Cordoaria;Largo do Professor Abel Salazar;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z521_AiresGoveia-Restauração;Outdoor Access Point;Rua Dr. Alberto Aires de Gouveia - Rua da Restauração;41,146281;-8,620146;;Miragaia;R Dr Alberto Aires De Gouveia;Cedofeita
+z109_GoncaloCristovao-O;Outdoor Access Point;Rua Gonçalo Cristovão - Rua das Carvalheiras;41,153496;-8,60622;a4-bd-c4-d0-5e-20;Santo Ildefonso;R Gonçalo Cristóvão;Cedofeita
+z107_GoncaloCristovao-S;Outdoor Access Point;Rua Gonçalo Cristovão -Rua do Bonjardim;41,153553;-8,607858;a4-bd-c4-d0-6c-20;Santo Ildefonso;R Gonçalo Cristóvão;Cedofeita
+z108_GoncaloCristovao-E;Outdoor Access Point;Rua Gonçalo Cristovão -Rua do Bonjardim;41,153553;-8,607858;a4-bd-c4-d0-5f-60;Santo Ildefonso;R Gonçalo Cristóvão;Cedofeita
+Piloto_WiFi6_norte;Indoor Access Point;Rua Infante D.Henrique - Rua de Alfândega;41,140945;-8,614736;90-16-ba-1e-bf-40;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+Piloto_WiFi6_sul;Indoor Access Point;Rua Infante D.Henrique - Rua de Alfândega;41,140945;-8,614736;90-16-ba-1e-be-80;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+z170_JardimInfante_N;Outdoor Access Point;Rua Infante D.Henrique - Rua de Alfândega;41,140945;-8,614736;;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+z171_JardimInfante_S;Outdoor Access Point;Rua Infante D.Henrique - Rua de Alfândega;41,140945;-8,614736;;S Nicolau;Rua do Infante Dom Henrique;Cedofeita
+dmct-rap1;Outdoor Access Point;Rua Miguel Bombarda  (Direção Municipal Cultura e Turismo);41,161475;-8,61154;00-0e-d7-c3-4b-c0;Lapa;Rua de Antero de Quental;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z154_Mouzinho_da_Silveira_S;Outdoor Access Point;Rua Mouzinho da Silveira - Largo São Domingues;41,142868;-8,614152;a4-bd-c4-d0-56-80;São Domingos;Rua de Mouzinho da Silveira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z167_Mouzinho_da_Silveira_N;Outdoor Access Point;Rua Mouzinho da Silveira - Largo São Domingues;41,142868;-8,614152;a4-bd-c4-d0-6d-20;São Domingos;Rua de Mouzinho da Silveira;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z133_SaBandeira-Formosa-S;Outdoor Access Point;Rua Sá da Bandeira - Rua Formosa;41,148831;-8,607922;;Bolhão;Rua Formosa;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z134_SaBandeira-Formosa-E;Outdoor Access Point;Rua Sá da Bandeira - Rua Formosa;41,148831;-8,607922;a4-bd-c4-d0-56-c0;Bolhão;Rua Formosa;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z135_SantaCatarina-Formosa-S;Outdoor Access Point;Rua Santa Catarina - Rua Formosa;41,148315;-8,606383;a4-bd-c4-d0-6c-a0;Santo Ildefonso;Rua de Santa Catarina;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z136_SantaCatarina-Formosa-N;Outdoor Access Point;Rua Santa Catarina - Rua Formosa;41,148315;-8,606383;a4-bd-c4-d0-6e-e0;Santo Ildefonso;Rua de Santa Catarina;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+EMAP_AP_Corredor_Central_Piso_1;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;ac-75-1d-98-ae-20;Paranhos;R S Dinis;Cedofeita
+EMAP_AP_WiFi_6_definir_localizacao_10;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;98-44-ce-7a-09-80;Paranhos;R S Dinis;Cedofeita
+EMAP_AP_WiFi_6_Sao_Dinis_1;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;98-44-ce-7a-0b-80;Paranhos;R S Dinis;Cedofeita
+EMAP_AP_WiFi_6_Sao_Dinis_2;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;98-44-ce-7a-05-80;Paranhos;R S Dinis;Cedofeita
+EMAP_AP_WiFi_6_Sao_Dinis_3;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;98-44-ce-7a-0a-e0;Paranhos;R S Dinis;Cedofeita
+EMAP_AP_WiFi_6_Sao_Dinis_9;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;98-44-ce-7a-0c-40;Paranhos;R S Dinis;Cedofeita
+EMAP_S_Dinis_Corredor;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;60-de-f3-96-1f-00;Paranhos;R S Dinis;Cedofeita
+EMAP_Sala_principal;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;60-de-f3-96-0d-20;Paranhos;R S Dinis;Cedofeita
+emap-rap1;Outdoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;00-27-e3-48-db-a8;Paranhos;R S Dinis;Cedofeita
+emap-rap2;Outdoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;00-a7-42-84-d7-50;Paranhos;R S Dinis;Cedofeita
+emap-rap3;Outdoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;00-a7-42-84-d6-34;Paranhos;R S Dinis;Cedofeita
+emap-rap4;Outdoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;a0-23-9f-ca-86-60;Paranhos;R S Dinis;Cedofeita
+emap-rap5;Outdoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;08-4f-a9-f6-ae-40;Paranhos;R S Dinis;Cedofeita
+emap-sede1;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;60-de-f3-96-0c-e0;Paranhos;R S Dinis;Cedofeita
+EMAP-sede2;Indoor Access Point;S. Dinis - Porto Ambiente;41,167736;-8,620032;60-de-f3-96-1f-a0;Paranhos;R S Dinis;Cedofeita
+srlameira-rap1;Outdoor Access Point;S. Roque da Lameira (R. Vila Nova de Foz Côa C2);41,162382;-8,567621;10-bd-18-1a-2e-30;Campanhã;R Cerco Porto;Cedofeita
+serr-map3;Outdoor Access Point;Serralves (R. Raimundo de Macedo 118);41,160288;-8,653364;00-23-5e-03-6e-48;Lordelo do Ouro;R Raimundo Macedo;Cedofeita
+serr-rap4;Outdoor Access Point;Serralves (R. Raimundo de Macedo 118);41,160288;-8,653364;00-13-19-73-e5-94;Lordelo do Ouro;R Raimundo Macedo;Cedofeita
+serr-rap6;Outdoor Access Point;Serralves (R. Raimundo de Macedo 118);41,160288;-8,653364;00-14-69-13-70-30;Lordelo do Ouro;R Raimundo Macedo;Cedofeita
+teatroca-rap1;Outdoor Access Point;Teatro Carlos Alberto;41,14915954;-8,615057848;54-75-d0-29-59-d9;Oliveiras;Rua das Oliveiras;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+teatroca-rap2;Outdoor Access Point;Teatro Carlos Alberto;41,14915954;-8,615057848;54-75-d0-29-59-9d;Oliveiras;Rua das Oliveiras;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z139_TunelCeuta-O;Outdoor Access Point;Tunel de Ceuta - Rua do Almada;41,148018;-8,612139;a4-bd-c4-d0-60-c0;Picaria;Rua do Almada;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+miragaia-rap1;Outdoor Access Point;UFCHP - Miragaia;41,14609399;-8,61778696;00-15-f9-9e-2e-8e;Miragaia;Cpo Martires Da Patria;Cedofeita
+miragaia-rap2;Outdoor Access Point;UFCHP - Miragaia;41,14609399;-8,61778696;00-0e-84-5d-ef-92;Miragaia;Cpo Martires Da Patria;Cedofeita
+sildefonso-rap1;Outdoor Access Point;UFCHP- Rua Gonçalo Cristóvão;41,15339452;-8,608504254;00-13-7f-5d-d1-ea;Trindade;Largo do Doutor Tito Fontes;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+se-rap1;Outdoor Access Point;UFCHP-Junta freguesia da Sé;41,14451;-8,607042;00-13-7f-53-05-90;Batalha;Rua de Augusto Rosa;Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória
+z333_ViaCasteloQueijo-PracaGoncalvesZarco;Outdoor Access Point;Via do Castelo do Queijo - Praça Gonçalves Zarco;41,168646;-8,688034;;Castelo do Queijo;Via do Castelo do Queijo;Aldoar, Foz do Douro e Nevogilde
+z334_ViaCasteloQueijo-PracaGoncalvesZarco;Outdoor Access Point;Via do Castelo do Queijo - Praça Gonçalves Zarco;41,168646;-8,688034;;Castelo do Queijo;Via do Castelo do Queijo;Aldoar, Foz do Douro e Nevogilde

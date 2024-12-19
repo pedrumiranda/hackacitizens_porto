@@ -1,0 +1,37 @@
+[
+    {
+        "neighborhood_name": "Bonfim",
+        "inhabitants": 22978,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "Campanhã",
+        "inhabitants": 29666,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "Paranhos",
+        "inhabitants": 45883,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "Ramalde",
+        "inhabitants": 38847,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
+        "inhabitants": 29085,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+        "inhabitants":37430,
+        "source": "Censo 2021"
+    },
+    {
+        "neighborhood_name": "União das freguesias de Lordelo do Ouro e Massarelos",
+        "inhabitants":	27911,
+        "source": "Censo 2021"
+    }
+]
